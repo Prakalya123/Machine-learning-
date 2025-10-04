@@ -1,12 +1,12 @@
 # Machine-learning-
-__Movie Recommendation System using KNN
+__Movie Recommendation System using KNN__
 
-__Project Overview
+__Project Overview__
 
 This project implements an Item-Based K-Nearest Neighbors (KNN) Movie Recommendation System using Python and scikit-learn.
 The system recommends movies to users based on the ratings patterns of other users and items.
 
-**Features
+**Features**
 
 Item-based collaborative filtering using KNN.
 
@@ -18,11 +18,11 @@ Evaluation using Precision@K and Recall@K metrics.
 
 Works with sparse rating datasets.
 
-__Dataset
+__Dataset__
 
 The dataset contains user ratings for movies.
 
-__Columns:
+__Columns:__
 
 Column Name	Description
 user_id	Unique ID of the user
@@ -33,7 +33,7 @@ Example datasets: MovieLens
  or Kaggle movie datasets.
 
 
---Installation
+__Installation__
 
 Clone the repository:
 
